@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\bin\Debug\net8.0\Week4 Closing Project.exe
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\bin\Debug\net8.0\Week4 Closing Project.deps.json
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\bin\Debug\net8.0\Week4 Closing Project.runtimeconfig.json
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\bin\Debug\net8.0\Week4 Closing Project.dll
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\bin\Debug\net8.0\Week4 Closing Project.pdb
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.AssemblyInfo.cs
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.sourcelink.json
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.dll
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\refint\Week4 Closing Project.dll
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.pdb
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\Week4 Closing Project.genruntimeconfig.cache
+C:\Users\User\Desktop\Patika Week4 Closing\Week4 Closing Project\obj\Debug\net8.0\ref\Week4 Closing Project.dll
